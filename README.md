@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi , I'm Asim Saddique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>Passionate self-taught full-stack developer with expertise in React, Node.js, Express, and GraphQL, delivering dynamic and interactive web applications. I also channel my creativity into motion design on Fiverr, crafting visually stunning animations using Adobe Illustrator and Adobe After Effects. Let's bring ideas to life through code and captivating visuals!</p>
+<p>Passionate self-taught full-stack developer with expertise in Vue, React, Express, and GraphQL, delivering dynamic and interactive web applications. I also channel my creativity into motion design on Fiverr, crafting visually stunning animations using Adobe Illustrator and Adobe After Effects. Let's bring ideas to life through code and captivating visuals!</p>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,styledcomponents,sass,codepen,tailwind,nodejs,express,mongo,py,flask,ai" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,vue,ts,react,styledcomponents,sass,codepen,tailwind,nodejs,express,mongo,py,django,flask,ai" />
   </a>
 </p>
 
@@ -33,9 +33,9 @@
   <a href="https://www.linkedin.com/in/asimsaddiqu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/tanzeel498_" target="_blank">
+  <!-- <a href="https://twitter.com/tanzeel498_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
