@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Asim Saddique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>Passionate self-taught full-stack developer with expertise in Vue, React, Express, and GraphQL, delivering dynamic and interactive web applications. I also channel my creativity into motion design on Fiverr, crafting visually stunning animations using Adobe Illustrator and Adobe After Effects. Let's bring ideas to life through code and captivating visuals!</p>
+<p>Passionate self-taught Full-stack developer with expertise in React, Next, Vue, Typescript, Javascript, Node, and RestApi/GraphQL, delivering dynamic and interactive web applications. Let's bring ideas to life through code and captivating visuals!</p>
 
 ###
 
